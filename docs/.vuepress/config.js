@@ -72,7 +72,16 @@ module.exports = {
                         '/note/2',
                     ]
                 }
+            ],
+            '/resource/': [
+                {
+                    title: '资源',
+                    children: [
+                        '/resource/1',
+                    ]
+                }
             ]
+            
         }
     }
 };

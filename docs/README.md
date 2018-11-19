@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /cat.png
-actionText: Start →
-actionLink: /zh/guide/
+actionText: GO →
+actionLink: /article/
 
 ---
